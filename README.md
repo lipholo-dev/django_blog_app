@@ -31,7 +31,7 @@ Bootstrap
 Follow these steps to set up the project locally:
 
 Clone the repository:
-git clone https://github.com/your-username/django-blog-app.git
+git clone https://github.com/lipholo-dev/django-blog-app.git
 cd django-blog-app
 
 Create and activate a virtual environment (optional but recommended):
